@@ -11,7 +11,7 @@ My approach combines technical expertise with creative problem-solving, ensuring
 - 👨🏻‍💻 I love coding with python!
 
 ## 💻 Tech Stack
-- **Languages**: `HTML`, `CSS`, `JavaScript`, `Python`
+- **Languages**: `HTML`, `CSS`, `JavaScript`, `Python`, `C`
 - **Tools**: VS Code, GitHub
 
 ## 📈 GitHub Stats
@@ -22,6 +22,6 @@ My approach combines technical expertise with creative problem-solving, ensuring
 ⭐️ **Fun Fact**: I believe every line of code can tell a story!
 
 Thanks for visiting! Feel free to check out my repositories and leave a ⭐️ if you find something interesting!
-@algoranux
+@cottidev
 
 

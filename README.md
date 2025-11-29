@@ -14,8 +14,9 @@ My approach combines technical expertise with creative problem-solving, ensuring
 - **Languages**: `HTML`, `CSS`, `JavaScript`, `Python`, `C`
 - **Tools**: VS Code, GitHub
 
-## 📈 GitHub Stats
-![Aymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoranux&show_icons=true&theme=radical)
+## 📈 GitHub
+![Aymane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cottidev&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cottidev&layout=compact&theme=radical)
 
 ---
 

@@ -15,7 +15,8 @@ My approach combines technical expertise with creative problem-solving, ensuring
 - **Tools**: VS Code, GitHub
 
 ## 📈 GitHub
-![Aymane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cottidev&show_icons=true&theme=radical)  
+![Aymane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cottidev&show_icons=true&count_private=true&theme=radical)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cottidev&layout=compact&theme=radical)
 
 ---

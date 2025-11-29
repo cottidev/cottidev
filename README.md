@@ -15,7 +15,6 @@ My approach combines technical expertise with creative problem-solving, ensuring
 - **Tools**: VS Code, GitHub
 
 ## 📈 GitHub
-- 📂 Total Repositories: ![Repos](https://img.shields.io/github/repos/cottidev?style=flat-square)  
 - ⭐ Total Stars: ![Stars](https://img.shields.io/github/stars/cottidev?style=flat-square)  
 - 👀 Followers: ![Followers](https://img.shields.io/github/followers/cottidev?style=flat-square)  
 
